@@ -1,0 +1,7 @@
+C:\Users\hornu\source\repos\dotNetLab1\dotNetLab1\bin\Debug\dotNetLab1.exe.config
+C:\Users\hornu\source\repos\dotNetLab1\dotNetLab1\bin\Debug\dotNetLab1.exe
+C:\Users\hornu\source\repos\dotNetLab1\dotNetLab1\bin\Debug\dotNetLab1.pdb
+C:\Users\hornu\source\repos\dotNetLab1\dotNetLab1\obj\Debug\converter.csprojAssemblyReference.cache
+C:\Users\hornu\source\repos\dotNetLab1\dotNetLab1\obj\Debug\converter.csproj.CoreCompileInputs.cache
+C:\Users\hornu\source\repos\dotNetLab1\dotNetLab1\obj\Debug\dotNetLab1.exe
+C:\Users\hornu\source\repos\dotNetLab1\dotNetLab1\obj\Debug\dotNetLab1.pdb
